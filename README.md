@@ -1,8 +1,9 @@
 # Fraud Detection System
 
-!\[Python](https://img.shields.io/badge/Python-3.8+-blue)
-!\[XGBoost](https://img.shields.io/badge/XGBoost-2.0.0-orange)
-!\[Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Overview
 
